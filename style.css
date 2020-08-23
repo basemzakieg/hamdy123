@@ -1,0 +1,65 @@
+ul {
+			background-color: blue;
+		}
+		ul li {
+			display: inline-block;
+			color: white;
+			padding: 10px;
+			font-size: 18px;
+		}
+
+		ul li:hover {
+			background-color: white;
+			color: blue;
+		}
+
+		.mainbtn{
+			display: block
+		}
+
+		.btn1 {
+			background-color: green;
+			color: white;
+			padding: 10px 25px;
+			font-size: 15px;
+		}
+		.btn2 {
+			background-color: red;
+			color: white;
+			padding: 10px;
+			padding: 10px 25px;
+			font-size: 15px;
+		}
+		 .img1 {
+			display: inline-block;
+		}
+		.img1 img {
+			width: 150px;
+		}
+		a{
+			display: block;
+			text-align: center;
+		}
+		.blog1{
+			width: 50%;
+			float: left;
+		}
+		.blog1 img {
+			width: 100%;
+		}
+		.blog2{
+			width: 50%;
+			float: right;
+		} 
+		.blog2 img{
+			width: 100%
+		}
+		.clearfix {
+			clear: both;
+		}
+.form-signup{
+    text-align: center
+}
+.joe{
+    text-align: center
+}
